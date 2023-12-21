@@ -1,0 +1,11 @@
+const num = 123;
+console.log(num);
+
+const num1 = new Number(123);
+console.log(num1);
+
+const num2 = 12.37463;
+console.log(num2.toPrecision(3));
+
+const num3 = 123.12;
+console.log(num3.toFixed(2));
